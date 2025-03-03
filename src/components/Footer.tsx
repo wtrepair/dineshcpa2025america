@@ -71,7 +71,7 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
                 className="cursor-pointer"
                 onClick={() => scrollToSection("contactContainer")}
               >
-                Contact at
+                Contact Us
               </li>
             </ul>
           </div>
@@ -114,9 +114,10 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
 
           <div className="col-span-2 md:col-span-1">
             <h3 className="text-lg font-semibold uppercase">Contact</h3>
-            <p className="mt-2 text-sm">Email: info@dszaccounting.com</p>
+            <p className="mt-2 text-sm">Email: info@dineshcpa.ca</p>
             <p className="text-sm">1-855-DINESH-1</p>
-            <p className="text-sm">1-414-260-9030</p>
+            <p className="text-sm">(1-855-346-3741)</p>
+            <p className="text-sm">1-613-480-0184</p>
           </div>
         </div>
 
@@ -128,11 +129,11 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
           <div className="flex items-center gap-2">
             <img className="w-6 h-6" alt="Logo" src="/logo1.svg" />
             <span className="font-semibold">
-              DSZ Accounting and Tax Consultants
+              Dinesh Professional Corporation
             </span>
           </div>
           <p className="text-center md:text-left">
-            &copy; 2025 DSZ Accounting and Tax Consultants. All rights reserved.
+            &copy; 2025 Dinesh Professional Corporation. All rights reserved.
           </p>
           <div className="flex items-center gap-2">
             {/* <img className="w-6 h-4" alt="Flag" src="/flags--ca.svg" /> */}

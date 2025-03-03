@@ -81,7 +81,7 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
               </h2>
               <p className="text-base md:text-lg text-gray-500 leading-7">
                 In today’s fast-paced business world, having the right financial
-                tools is essential. At <b>DSZ Accounting and Tax Consultants</b>, we provide cloud
+                tools is essential. At <b>Dinesh Professional Corporation</b>, we provide cloud
                 accounting, expert bookkeeping, payroll management, and other
                 accounting solutions that keep your finances organized and your
                 business running smoothly. Focus on profitability while we
@@ -122,11 +122,11 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                 <br />
                 <ul className="list-disc pl-6">
                   <li>
-                    <b>Business Incorporation</b> – We offer a wide range of
-                    business registration services, in both the U.S and Canada,
-                    including U.S. entity formation (LLC, S-Corp, C-Corp),
-                    Ontario and Canada incorporations, and NUANS (Name Search)
-                    to help you secure the right business name.
+                    <b>Business Incorporation</b> – We offer comprehensive
+                    business registration services for Ontario and federal Canadian
+                    incorporations. Our services include NUANS (Name Search) reports
+                    to help you secure the right business name, and guidance on
+                    the optimal corporate structure for your needs.
                   </li>
                   <li>
                     <b>Business Consulting</b> – As a commercially focused
@@ -145,37 +145,20 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                     opportunities.
                   </li>
                   <li>
-                    <b>Return Filing</b> – Proper tax Our team offers expert
-                    assistance in both U.S. and Canadian tax filings, including:
+                    <b>Return Filing</b> – Our team offers expert assistance
+                    with all Canadian tax filings, including:
                     <ul className="list pl-6">
-                      <li>
-                        U.S. Corporate Tax (Form 1120) / Canadian Corporate Tax
-                        (T2)
-                      </li>
-                      <li>
-                        U.S. Individual Tax (Form 1040) / Canadian Personal Tax
-                        (T1)
-                      </li>
-                      <li>
-                        U.S. Sales & Use Tax Compliance / Canadian HST Returns
-                      </li>
-                      <li>
-                        U.S. Workers’ Compensation Filings (State-Specific) /
-                        Canadian WSIB Filings
-                      </li>
-                      <li>
-                        U.S. Payroll Tax Filings (Federal & State) / Canadian
-                        EHT Returns
-                      </li>
-                      <li>
-                        U.S. Payroll Reporting (W-2, 1099 Forms) / Canadian
-                        Annual Payroll Returns (T4/T5)
-                      </li>
+                      <li>Corporate Tax Returns (T2)</li>
+                      <li>Personal Tax Returns (T1)</li>
+                      <li>HST Returns</li>
+                      <li>WSIB Filings</li>
+                      <li>EHT Returns</li>
+                      <li>Annual Payroll Returns (T4/T5)</li>
                     </ul>
                   </li>
                 </ul>
                 Whether you’re launching a new business or optimizing an
-                existing one, DSZ Accounting and Tax Consultants provides the expertise, guidance, and
+                existing one, Dinesh Professional Corporation provides the expertise, guidance, and
                 strategic support needed to ensure financial success.
               </p>
               <button className="bg-green-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-green-800 transition cursor-pointer">
@@ -193,11 +176,10 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
               <p className="text-base md:text-lg text-gray-500 leading-7">
                 Year-end financial reporting is more than just meeting
                 deadlines—it’s about ensuring accuracy, compliance, and
-                strategic planning for the future. At DSZ Accounting and Tax Consultants, we provide
+                strategic planning for the future. At Dinesh Professional Corporation, we provide
                 expert tax compliance and advisory services, ensuring full
-                adherence to IRS (U.S.) and CRA (Canada) regulations. Whether
-                you operate domestically or across borders, we help businesses
-                stay ahead of tax laws while optimizing financial efficiency.
+                adherence to CRA regulations. We help businesses stay ahead
+                of Canadian tax laws while optimizing financial efficiency.
                 Our in-depth analysis helps you close the year with confidence
                 and set the stage for continued growth.
               </p>
@@ -251,7 +233,7 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                 Legacy Planning and Business Valuations
               </h2>
               <p className="text-base md:text-lg text-gray-500 leading-7">
-                At <b>DSZ Accounting and Tax Consultants</b>, we specialize in business valuation and
+                At <b>Dinesh Professional Corporation</b>, we specialize in business valuation and
                 succession planning to help you protect and optimize the wealth
                 you’ve built. Whether you’re a small business owner or leading a
                 corporation, we guide you through the transition—helping you

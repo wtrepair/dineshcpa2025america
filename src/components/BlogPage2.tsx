@@ -29,7 +29,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           optimizing financial strategies to ensure long-term sustainability and
           profitability. From effective cash flow management to smart tax
           planning and cost control, structuring your finances properly can
-          position your business for success in both the U.S. and Canada.
+          position your business for success in Canada.
           <br />
           In this guide, we’ll explore key financial strategies to help you
           streamline operations, reduce tax liabilities, and enhance
@@ -70,38 +70,23 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           potential. Choosing the right entity is crucial for financial
           optimization.
           <br />
-          U.S. Business Structures:
-          <ul className="list-disc list-inside">
-            <li>
-              <b>Sole Proprietorship</b> – Simple but offers no liability
-              protection.
-            </li>
-            <li>
-              <b>LLC (Limited Liability Company)</b>– Offers liability
-              protection with pass-through taxation.
-            </li>
-            <li>
-              <b>S-Corp or C-Corp</b> – Suitable for larger businesses seeking
-              tax advantages and investor funding.
-            </li>
-          </ul>
-          Canadian Business Structures:
+          Common Business Structures in Canada:
           <ul className="list-disc list-inside">
             <li>
               <b>Sole Proprietorship</b> – Easy to set up, but personal assets
               are exposed to liability.
             </li>
             <li>
-              <b> Corporation</b>– Allows for tax planning opportunities and
+              <b>Corporation</b> – Allows for tax planning opportunities and
               protects personal assets.
             </li>
             <li>
-              <b>Partnership </b> – Best for multiple owners looking to share
+              <b>Partnership</b> – Best for multiple owners looking to share
               responsibility.
             </li>
           </ul>
-          💡 <b>Tip</b>:Consult with a tax professional to determine the best
-          structure for minimizing tax burdens in your country.
+          💡 <b>Tip</b>: Consult with a tax professional to determine the best
+          structure for minimizing tax burdens.
         </p>
         <h2 className="text-5xl font-bold px-4">
           3. Leverage Tax Planning to Maximize Savings
@@ -110,21 +95,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           Tax planning is key to reducing liabilities and ensuring compliance.
           Consider these strategies.
           <br />
-          For U.S. Businesses:
-          <ul className="list-disc list-inside">
-            <li>
-              Utilize Qualified Business Income (QBI) Deduction for pass-through
-              entities.
-            </li>
-            <li>
-              Take advantage of Section 179 deductions for equipment purchases.
-            </li>
-            <li>
-              Explore tax credits like the Research & Development Tax Credit and
-              Work Opportunity Tax Credit (WOTC).
-            </li>
-          </ul>
-          For Canadian Businesses:
+          Key Tax Planning Strategies:
           <ul className="list-disc list-inside">
             <li>
               Maximize the Small Business Deduction (SBD) to lower corporate tax
@@ -136,6 +107,12 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
             <li>
               Apply for Scientific Research and Experimental Development (SR&ED)
               Tax Incentives.
+            </li>
+            <li>
+              Take advantage of the GST/HST Input Tax Credits.
+            </li>
+            <li>
+              Consider income splitting opportunities with family members.
             </li>
           </ul>
           💡 <b>Tip</b>:Keep detailed financial records and plan ahead to avoid
@@ -236,22 +213,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           the best funding options ensures you can scale effectively without
           unnecessary financial strain.
           <br />
-          Funding options in the U.S.:
-          <ul className="list-disc list-inside">
-            <li>
-              <b>Small Business Administration (SBA) Loans</b> – Low-interest
-              government-backed loans.
-            </li>
-            <li>
-              <b> Angel Investors & Venture Capital</b>– Ideal for startups
-              looking to scale quickly.
-            </li>
-            <li>
-              <b>Business Lines of Credit</b> – Provides flexible access to
-              working capital.
-            </li>
-          </ul>
-          Funding options in Canada:
+          Funding Options Available:
           <ul className="list-disc list-inside">
             <li>
               <b>Canada Small Business Financing Program (CSBFP)</b> –
@@ -278,7 +240,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
         ongoing process. By implementing cash flow management, tax planning,
         cost reduction strategies, and growth investments, your business can
         achieve long-term financial stability and success. <br />
-        At DSZ Accounting and Tax Consultants, we help businesses in the U.S. and Canada navigate
+        At Dinesh Professional Corporation, we help Canadian businesses navigate
         complex financial landscapes and build strong financial strategies.
         Contact us today to take the next step in securing your company’s
         financial future!

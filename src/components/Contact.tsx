@@ -22,7 +22,7 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
           <h3 className="font-semibold mt-4">Company Information</h3>
           <p className="text-gray-500 text-sm">
             Dinesh Singh CGA, CPA
-            <br /> DSZ Accounting & Tax Consultants
+            <br /> Dinesh Professional Corporation
           </p>
         </div>
         <div className="flex flex-col items-center">
@@ -30,15 +30,9 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
             <img src="/mappin.svg" alt="Address Icon" className="w-10 h-10" />
           </div>
           <h3 className="font-semibold mt-4">Address</h3>
-          {/* Address for .ca website */}
-          {/* <p className="text-gray-500 text-sm">
-            216-2985 Drew Road
-            <br /> Mississauga, ON
-          </p> */}
-          {/* Address for .com website */}
           <p className="text-gray-500 text-sm">
-            500 W. Silver Spring Drive, Suite K200,
-            <br /> Glendale, Wisconsin 53217
+            2985 Drew Rd Suite 216
+            <br /> Mississauga, ON L4T 0A7
           </p>
         </div>
         <div className="flex flex-col items-center">
@@ -49,11 +43,12 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
           {/* Phone for .ca website */}
           {/* <p className="text-gray-500 text-sm">+1 613 480 0184</p> */}
           {/* Phone for .com website */}
-          <p className="text-gray-500 text-sm m-2">+1-414-260-9030</p>
           <p className="text-gray-500 text-sm m-2">1-855-DINESH-1</p>
+          <p className="text-gray-500 text-sm m-2">(1-855-346-3741)</p>
+          <p className="text-gray-500 text-sm m-2">1-613-480-0184</p>
           <p className="text-gray-500 text-sm m-2">
             Email us for general queries, including marketing and partnerships.
-            <b className="block mt-2 text-green-600"> info@dszaccounting.com</b>
+            <b className="block mt-2 text-green-600"> info@dineshcpa.ca</b>
           </p>
         </div>
       </div>

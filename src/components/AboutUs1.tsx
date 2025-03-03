@@ -31,13 +31,12 @@ const AboutUs1: FunctionComponent<AboutUs1Type> = ({ className = "" }) => {
         <div className="flex-1 flex flex-col text-gray-500 px-6">
           <p className="text-lg leading-relaxed">
             With over 30 years of accounting experience across multiple
-            industries, <b>DSZ Accounting and Tax Consultants</b> provides expert financial services to
-            both corporate and personal clients in Canada and the United States.
-            With offices on both sides of the border, our firm specializes in
-            cross-border taxation, helping businesses and individuals navigate
-            complex financial regulations seamlessly.
+            industries, <b>Dinesh Professional Corporation</b> provides expert financial services to
+            both corporate and personal clients throughout Canada. Based in Mississauga,
+            our firm specializes in Canadian taxation and accounting, helping businesses
+            and individuals navigate complex financial regulations with confidence.
             <br />
-            At <b>DSZ Accounting and Tax Consultants</b>, strategy is at the core of everything we do.
+            At <b>Dinesh Professional Corporation</b>, strategy is at the core of everything we do.
             Our team takes a broad, forward-thinking approach to analyzing each
             client’s financial situation, ensuring that every decision aligns
             with long-term success. With deep experience in financial
@@ -52,7 +51,7 @@ const AboutUs1: FunctionComponent<AboutUs1Type> = ({ className = "" }) => {
             We prioritize a proactive approach, keeping our clients informed
             about the latest financial trends, tax laws, and regulatory changes.
             Whether you’re an entrepreneur, a growing business, or an individual
-            seeking expert tax guidance, <b>DSZ Accounting and Tax Consultants</b> provides the reliable
+            seeking expert tax guidance, <b>Dinesh Professional Corporation</b> provides the reliable
             financial expertise and strategic insights you need to succeed.
           </p>
         </div>

@@ -40,32 +40,10 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           1. Recent Tax Changes for Individuals
         </h2>
         <p className="text-gray-500 px-6 text-base md:text-lg text-gray-800 leading-7 text-xl font-normal ">
-          <b>In the U.S.:</b>
+          Recent Changes:
           <ul className="list-disc list-inside">
             <li>
-              <b>Adjusted Income Tax Brackets</b> – The IRS updates tax brackets
-              annually to reflect inflation. Ensure you’re aware of the latest
-              federal income tax thresholds.
-            </li>
-            <li>
-              <b>Increased Standard Deduction</b>– The standard deduction may
-              have changed, impacting whether you should itemize deductions or
-              take the standard deduction.
-            </li>
-            <li>
-              <b>Expanded Child Tax Credit & Earned Income Tax Credit (EITC)</b>{" "}
-              – Some years bring adjustments to credits aimed at families and
-              low-income earners.
-            </li>
-            <li>
-              <b>Retirement Contribution Limits</b> – 401(k), IRA, and Roth IRA
-              contribution limits are subject to annual adjustments.
-            </li>
-          </ul>
-          <b>In Canada:</b>
-          <ul className="list-disc list-inside">
-            <li>
-              <b>Updated Federal Tax Brackets</b> – he CRA updates tax brackets
+              <b>Updated Federal Tax Brackets</b> – The CRA updates tax brackets
               to reflect inflation, changing the tax rates for different income
               levels.
             </li>
@@ -90,29 +68,7 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           2. Key Tax Updates for Businesses
         </h2>
         <p className="text-gray-500 px-6 text-base md:text-lg text-gray-800 leading-7 text-xl font-normal ">
-          <b>In the U.S.:</b>
-          <ul className="list-disc list-inside">
-            <li>
-              <b>Corporate Tax Rate Adjustments</b> – Any changes to the
-              corporate tax rate can impact your bottom line.
-            </li>
-            <li>
-              <b>Section 179 Deduction & Bonus Depreciation</b>– Changes to
-              depreciation allowances affect businesses purchasing new equipment
-              or property.
-            </li>
-            <li>
-              <b>New Tax Credits for Clean Energy Investments</b> – If your
-              business is investing in sustainability, certain credits may now
-              be available.
-            </li>
-            <li>
-              <b>Payroll Tax Changes & Employer Incentives </b> – Updates to
-              FICA taxes, minimum wage adjustments, and small business
-              incentives.
-            </li>
-          </ul>
-          <b>In Canada:</b>
+          Business Tax Updates:
           <ul className="list-disc list-inside">
             <li>
               <b>Small Business Deduction (SBD) Threshold Adjustments</b> –
@@ -143,24 +99,7 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           3. Tax Filing Deadlines & Compliance Updates
         </h2>
         <p className="text-gray-500 px-6 text-base md:text-lg text-gray-800 leading-7 text-xl font-normal ">
-          For U.S. Taxpayerss:
-          <ul className="list-disc list-inside">
-            <li>
-              <b>April 15</b> – Standard individual tax return filing deadline.
-            </li>
-            <li>
-              <b>March 15</b> – S-Corp and partnership tax filing deadline.
-            </li>
-            <li>
-              <b>Estimated Tax Payment Deadlines</b> – Quarterly due dates for
-              self-employed individuals and business owners.
-            </li>
-            <li>
-              <b>State-Specific Deadlines</b> – Some states have unique filing
-              dates and requirements.
-            </li>
-          </ul>
-          For Canadian Taxpayers:
+          Important Deadlines:
           <ul className="list-disc list-inside">
             <li>
               <b>April 30</b> - Individual tax return deadline.
@@ -197,8 +136,8 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
               others often incorporate the latest updates.
             </li>
             <li>
-              <b>Monitor IRS & CRA Announcements</b> – Check their official
-              websites or subscribe to updates.
+              <b>Monitor CRA Announcements</b> – Check their official
+              website or subscribe to updates.
             </li>
             <li>
               <b>Plan Year-Round</b> – Don’t wait until tax season—review
@@ -216,10 +155,10 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
         Tax laws are constantly evolving, and staying informed is essential to
         protecting your income and ensuring compliance. By understanding the
         latest tax changes and taking proactive steps, individuals and
-        businesses in both the U.S. and Canada can optimize their tax strategies
+        Canadian businesses can optimize their tax strategies
         and reduce liabilities.
         <br />
-        At DSZ Accounting and Tax Consultants, we specialize in helping clients navigate complex tax
+        At Dinesh Professional Corporation, we specialize in helping clients navigate complex tax
         regulations and develop personalized strategies. Contact us today to
         ensure you’re making the most of recent tax changes and setting yourself
         up for financial success!

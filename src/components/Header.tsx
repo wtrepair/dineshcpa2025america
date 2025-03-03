@@ -58,7 +58,7 @@ const Header: FunctionComponent<HeaderType> = ({ className = "" }) => {
             className="font-semibold cursor-pointer"
             onClick={() => (window.location.href = "/")}
           >
-            DSZ ACCOUNTING
+            Dinesh CPA
           </div>
         </div>
 
