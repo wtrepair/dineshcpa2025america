@@ -139,9 +139,9 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
             <img
               className="w-6 h-4"
               alt="Flag"
-              src="https://flagicons.lipis.dev/flags/4x3/us.svg"
+              src="https://flagicons.lipis.dev/flags/4x3/ca.svg"
             />
-            <span>English (USA)</span>
+            <span>English (Canada)</span>
           </div>
         </div>
       </div>
