@@ -21,7 +21,7 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
           </div>
           <h3 className="font-semibold mt-4">Company Information</h3>
           <p className="text-gray-500 text-sm">
-            Dinesh Singh CGA, CPA
+            Dinesh Singh CPA
             <br /> Dinesh Professional Corporation
           </p>
         </div>
@@ -31,8 +31,8 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
           </div>
           <h3 className="font-semibold mt-4">Address</h3>
           <p className="text-gray-500 text-sm">
-            2985 Drew Rd Suite 216
-            <br /> Mississauga, ON L4T 0A7
+            500 W.Silver Spring Drive, Suite K200
+            <br /> Glendale, Wisconsin 53217
           </p>
         </div>
         <div className="flex flex-col items-center">
@@ -40,15 +40,12 @@ const Contact: FunctionComponent<ContactType> = ({ className = "" }) => {
             <img src="/phone.svg" alt="Contact Icon" className="w-10 h-10" />
           </div>
           <h3 className="font-semibold mt-4">Contact Us</h3>
-          {/* Phone for .ca website */}
-          {/* <p className="text-gray-500 text-sm">+1 613 480 0184</p> */}
-          {/* Phone for .com website */}
+          {/* Contact Information */}
           <p className="text-gray-500 text-sm m-2">1-855-DINESH-1</p>
           <p className="text-gray-500 text-sm m-2">(1-855-346-3741)</p>
-          <p className="text-gray-500 text-sm m-2">1-613-480-0184</p>
           <p className="text-gray-500 text-sm m-2">
             Email us for general queries, including marketing and partnerships.
-            <b className="block mt-2 text-green-600"> info@dineshcpa.ca</b>
+            <b className="block mt-2 text-green-600"> info@dineshcpa.com</b>
           </p>
         </div>
       </div>

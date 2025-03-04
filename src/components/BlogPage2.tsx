@@ -29,7 +29,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           optimizing financial strategies to ensure long-term sustainability and
           profitability. From effective cash flow management to smart tax
           planning and cost control, structuring your finances properly can
-          position your business for success in Canada.
+          position your business for success in the United States.
           <br />
           In this guide, we’ll explore key financial strategies to help you
           streamline operations, reduce tax liabilities, and enhance
@@ -70,19 +70,27 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           potential. Choosing the right entity is crucial for financial
           optimization.
           <br />
-          Common Business Structures in Canada:
+          Common Business Structures in the United States:
           <ul className="list-disc list-inside">
             <li>
               <b>Sole Proprietorship</b> – Easy to set up, but personal assets
               are exposed to liability.
             </li>
             <li>
-              <b>Corporation</b> – Allows for tax planning opportunities and
-              protects personal assets.
+              <b>LLC (Limited Liability Company)</b> – Flexible structure that
+              protects personal assets with pass-through taxation.
             </li>
             <li>
-              <b>Partnership</b> – Best for multiple owners looking to share
-              responsibility.
+              <b>C-Corporation</b> – Separate tax entity with stock options,
+              ideal for seeking investors.
+            </li>
+            <li>
+              <b>S-Corporation</b> – Combines corporate protection with
+              pass-through taxation benefits.
+            </li>
+            <li>
+              <b>Partnership</b> – Multiple variations (General, Limited, LLP)
+              for shared ownership.
             </li>
           </ul>
           💡 <b>Tip</b>: Consult with a tax professional to determine the best
@@ -98,18 +106,16 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           Key Tax Planning Strategies:
           <ul className="list-disc list-inside">
             <li>
-              Maximize the Small Business Deduction (SBD) to lower corporate tax
-              rates.
+              Maximize Section 199A Qualified Business Income Deduction to lower tax rates.
             </li>
             <li>
-              Utilize Capital Cost Allowance (CCA) for asset depreciation.
+              Utilize Section 179 and Bonus Depreciation for asset write-offs.
             </li>
             <li>
-              Apply for Scientific Research and Experimental Development (SR&ED)
-              Tax Incentives.
+              Apply for Research and Development (R&D) Tax Credits.
             </li>
             <li>
-              Take advantage of the GST/HST Input Tax Credits.
+              Take advantage of state and local tax credits.
             </li>
             <li>
               Consider income splitting opportunities with family members.
@@ -216,12 +222,12 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
           Funding Options Available:
           <ul className="list-disc list-inside">
             <li>
-              <b>Canada Small Business Financing Program (CSBFP)</b> –
+              <b>Small Business Administration (SBA) Loans</b> –
               Government-backed loans for small businesses.
             </li>
             <li>
-              <b> Grants & Tax Incentives</b>– SR&ED tax credits and other
-              provincial grants.
+              <b> Grants & Tax Incentives</b>– R&D Tax Credit (Research & Development Credit) and various
+              federal and state business grants.
             </li>
             <li>
               <b>Bank Loans & Private Lending</b> – Traditional financing
@@ -240,7 +246,7 @@ const BlogPage2: FunctionComponent<BlogPage2Type> = ({ className = "" }) => {
         ongoing process. By implementing cash flow management, tax planning,
         cost reduction strategies, and growth investments, your business can
         achieve long-term financial stability and success. <br />
-        At Dinesh Professional Corporation, we help Canadian businesses navigate
+        At Dinesh Professional Corporation, we help American businesses navigate
         complex financial landscapes and build strong financial strategies.
         Contact us today to take the next step in securing your company’s
         financial future!

@@ -32,8 +32,8 @@ const AboutUs1: FunctionComponent<AboutUs1Type> = ({ className = "" }) => {
           <p className="text-lg leading-relaxed">
             With over 30 years of accounting experience across multiple
             industries, <b>Dinesh Professional Corporation</b> provides expert financial services to
-            both corporate and personal clients throughout Canada. Based in Mississauga,
-            our firm specializes in Canadian taxation and accounting, helping businesses
+            both corporate and personal clients throughout the United States. Based in Glendale, Wisconsin,
+            our firm specializes in US taxation and accounting, helping businesses
             and individuals navigate complex financial regulations with confidence.
             <br />
             At <b>Dinesh Professional Corporation</b>, strategy is at the core of everything we do.

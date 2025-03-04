@@ -122,11 +122,11 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                 <br />
                 <ul className="list-disc pl-6">
                   <li>
-                    <b>Business Incorporation</b> – We offer comprehensive
-                    business registration services for Ontario and federal Canadian
-                    incorporations. Our services include NUANS (Name Search) reports
-                    to help you secure the right business name, and guidance on
-                    the optimal corporate structure for your needs.
+                    <b>Business Formation</b> – We offer comprehensive
+                    business registration services for US federal and state
+                    incorporations nationwide. Our services include business name availability
+                    searches to help you secure the right business name, and guidance on
+                    the optimal business structure for your needs.
                   </li>
                   <li>
                     <b>Business Consulting</b> – As a commercially focused
@@ -146,14 +146,14 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                   </li>
                   <li>
                     <b>Return Filing</b> – Our team offers expert assistance
-                    with all Canadian tax filings, including:
+                    with all US tax filings, including:
                     <ul className="list pl-6">
-                      <li>Corporate Tax Returns (T2)</li>
-                      <li>Personal Tax Returns (T1)</li>
-                      <li>HST Returns</li>
-                      <li>WSIB Filings</li>
-                      <li>EHT Returns</li>
-                      <li>Annual Payroll Returns (T4/T5)</li>
+                      <li>Corporate Tax Returns (Form 1120/1120S)</li>
+                      <li>Personal Tax Returns (Form 1040)</li>
+                      <li>Sales Tax Returns</li>
+                      <li>Workers Compensation Insurance</li>
+                      <li>State Employment Tax</li>
+                      <li>Annual Payroll Returns (W-2/1099)</li>
                     </ul>
                   </li>
                 </ul>
@@ -178,8 +178,8 @@ const Services: FunctionComponent<ServicesType> = ({ className = "" }) => {
                 deadlines—it’s about ensuring accuracy, compliance, and
                 strategic planning for the future. At Dinesh Professional Corporation, we provide
                 expert tax compliance and advisory services, ensuring full
-                adherence to CRA regulations. We help businesses stay ahead
-                of Canadian tax laws while optimizing financial efficiency.
+                adherence to IRS regulations. We help businesses stay ahead
+                of US tax laws while optimizing financial efficiency.
                 Our in-depth analysis helps you close the year with confidence
                 and set the stage for continued growth.
               </p>

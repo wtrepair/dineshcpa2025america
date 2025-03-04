@@ -28,12 +28,11 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           Tax laws and regulations change frequently, impacting individuals,
           small businesses, and corporations alike. Staying updated on the
           latest tax changes is crucial to ensuring compliance, maximizing
-          deductions, and avoiding penalties. Whether you file taxes in the U.S.
-          or Canada, understanding the most recent updates can help you make
+          deductions, and avoiding penalties. Understanding the most recent updates to U.S. tax laws can help you make
           informed financial decisions and optimize your tax strategy.
           <br />
           In this guide, we’ll break down key tax changes for individuals and
-          businesses in both the U.S. and Canada, along with actionable steps to
+          businesses in the U.S., along with actionable steps to
           stay ahead of the curve.
         </p>
         <h2 className="text-5xl font-bold px-4">
@@ -43,22 +42,22 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           Recent Changes:
           <ul className="list-disc list-inside">
             <li>
-              <b>Updated Federal Tax Brackets</b> – The CRA updates tax brackets
+              <b>Updated Federal Tax Brackets</b> – The IRS updates tax brackets
               to reflect inflation, changing the tax rates for different income
               levels.
             </li>
             <li>
-              <b>Canada Workers Benefit (CWB) Enhancements</b>– Increased
+              <b>Earned Income Tax Credit (EITC) Updates</b>– Enhanced
               support for low-income workers.
             </li>
             <li>
-              <b>RRSP & TFSA Contribution Limits Adjusted</b>– Check the new
+              <b>401(k) & IRA Contribution Limits Adjusted</b>– Check the new
               limits to maximize your retirement savings tax benefits.
             </li>
             <li>
-              <b>New Homeowner Tax Credits</b> – Recent updates may offer tax
-              incentives for first-time homebuyers and eco-friendly home
-              renovations.
+              <b>First-Time Homebuyer Credits</b> – Recent updates may offer tax
+              incentives for first-time homebuyers and energy-efficient home
+              improvements.
             </li>
           </ul>
           💡 <b>Tip</b>:Reviewing your income and tax bracket early in the year
@@ -71,25 +70,23 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           Business Tax Updates:
           <ul className="list-disc list-inside">
             <li>
-              <b>Small Business Deduction (SBD) Threshold Adjustments</b> –
-              Check if your business still qualifies for the lower small
-              business tax rate.
+              <b>Section 199A Deduction Threshold Updates</b> –
+              Check if your business qualifies for the Qualified Business Income deduction.
             </li>
             <li>
-              <b> Capital Cost Allowance (CCA) Changes</b>– Depreciation rules
+              <b>Section 179 and Bonus Depreciation Changes</b>– Depreciation rules
               may have shifted, affecting asset write-offs.
             </li>
             <li>
               <b>
-                Scientific Research & Experimental Development (SR&ED) Tax
-                Credit Modifications{" "}
-              </b>{" "}
+                Research & Development (R&D) Tax Credit Updates
+              </b>
               – Businesses investing in innovation should be aware of any
               changes.
             </li>
             <li>
-              <b>Workforce Hiring Incentives </b> – Potential tax relief for
-              businesses creating new jobs.
+              <b>Work Opportunity Tax Credit</b> – Potential tax relief for
+              businesses hiring from certain target groups.
             </li>
           </ul>
           💡 <b>Tip</b>:Work with a CPA to determine how these updates impact
@@ -102,18 +99,18 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
           Important Deadlines:
           <ul className="list-disc list-inside">
             <li>
-              <b>April 30</b> - Individual tax return deadline.
+              <b>April 15</b> - Individual and self-employed tax return deadline.
             </li>
             <li>
-              <b>June 15</b> - Self-employed tax filing deadline.
+              <b>March 15</b> - S-corporation and partnership return deadline.
             </li>
             <li>
               <b>Corporate Filing Deadlines</b> - Generally six months after the
               end of the business’s fiscal year.
             </li>
             <li>
-              <b>GST/HST Filing Requirements</b> - Ensure compliance based on
-              your revenue thresholds.
+              <b>Sales Tax Filing Requirements</b> - Ensure compliance with state
+              and local sales tax filing deadlines.
             </li>
           </ul>
           💡 <b>Tip</b>:Mark important tax deadlines on your calendar and set up
@@ -136,7 +133,7 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
               others often incorporate the latest updates.
             </li>
             <li>
-              <b>Monitor CRA Announcements</b> – Check their official
+              <b>Monitor IRS Announcements</b> – Check their official
               website or subscribe to updates.
             </li>
             <li>
@@ -155,7 +152,7 @@ const BlogPage3: FunctionComponent<BlogPage3Type> = ({ className = "" }) => {
         Tax laws are constantly evolving, and staying informed is essential to
         protecting your income and ensuring compliance. By understanding the
         latest tax changes and taking proactive steps, individuals and
-        Canadian businesses can optimize their tax strategies
+        businesses in the United States can optimize their tax strategies
         and reduce liabilities.
         <br />
         At Dinesh Professional Corporation, we specialize in helping clients navigate complex tax

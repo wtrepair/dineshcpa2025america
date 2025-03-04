@@ -80,8 +80,8 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
             <h3 className="text-lg font-semibold uppercase">Services</h3>
             <ul className="mt-2 text-sm space-y-2">
               <li className="cursor-pointer" onClick={() => scrollToSection("PersonalIncomeTaxPreparation")}>Personal Income Tax</li>
-              <li className="cursor-pointer" onClick={() => scrollToSection("AccountingPayrollandTaxes")}>Accounting, payroll and Taxes Services for Buisnesses</li>
-              <li className="cursor-pointer" onClick={() => scrollToSection("BusinessServices")}>Buisnesses Services</li>
+              <li className="cursor-pointer" onClick={() => scrollToSection("AccountingPayrollandTaxes")}>Accounting, Payroll and Tax Services for Businesses</li>
+              <li className="cursor-pointer" onClick={() => scrollToSection("BusinessServices")}>Business Services</li>
               <li className="cursor-pointer" onClick={() => scrollToSection("FinancialYearEnd")}>Financial Year End and Audit Readiness</li>
               <li className="cursor-pointer" onClick={() => scrollToSection("BusinessPlanning")}>Business Planning & Advisory</li>
               <li className="cursor-pointer" onClick={() => scrollToSection("LegacyPlanning")}>Legacy Planning and Business Valuations</li>
@@ -114,10 +114,9 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
 
           <div className="col-span-2 md:col-span-1">
             <h3 className="text-lg font-semibold uppercase">Contact</h3>
-            <p className="mt-2 text-sm">Email: info@dineshcpa.ca</p>
+            <p className="mt-2 text-sm">Email: info@dineshcpa.com</p>
             <p className="text-sm">1-855-DINESH-1</p>
             <p className="text-sm">(1-855-346-3741)</p>
-            <p className="text-sm">1-613-480-0184</p>
           </div>
         </div>
 
@@ -136,13 +135,13 @@ const Footer: FunctionComponent<FooterType> = ({ className = "" }) => {
             &copy; 2025 Dinesh Professional Corporation. All rights reserved.
           </p>
           <div className="flex items-center gap-2">
-            {/* <img className="w-6 h-4" alt="Flag" src="/flags--ca.svg" /> */}
+
             <img
               className="w-6 h-4"
               alt="Flag"
-              src="https://flagicons.lipis.dev/flags/4x3/ca.svg"
+              src="https://flagicons.lipis.dev/flags/4x3/us.svg"
             />
-            <span>English (Canada)</span>
+            <span>English (United States)</span>
           </div>
         </div>
       </div>
