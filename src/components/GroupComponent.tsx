@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import Badge from "./Badge";
+// import Badge from "./Badge"; // Remove unused import
 import BlogCard from "./BlogCard";
 
 export type GroupComponentType = {
@@ -25,11 +25,6 @@ const GroupComponent: FunctionComponent<GroupComponentType> = ({
             preview="Discover how with
           the right tax planning strategies, you can legally reduce your tax
           bill and keep more of your hard-earned money."
-            small="Aug 15, 2021 · 16 min read"
-            badgeText="Article"
-            showText
-            showIcon={false}
-            showCloseIcon={false}
             blogId="1"
           />
           <BlogCard
@@ -38,11 +33,6 @@ const GroupComponent: FunctionComponent<GroupComponentType> = ({
             preview="Discover how from effective cash flow management to smart tax
           planning and cost control, structuring your finances properly can
           position your business for success"
-            small="Aug 10, 2021 · 6 min read"
-            badgeText="Article"
-            showText
-            showIcon={false}
-            showCloseIcon={false}
             blogId="2"
           />
           <BlogCard
@@ -51,11 +41,6 @@ const GroupComponent: FunctionComponent<GroupComponentType> = ({
             preview="Staying updated on the
           latest tax changes is crucial to ensuring compliance, maximizing
           deductions, and avoiding penalties."
-            small="Aug 1, 2021 · 23 min read"
-            badgeText="Tutorial"
-            showText
-            showIcon
-            showCloseIcon
             blogId="3"
           />
         </div>

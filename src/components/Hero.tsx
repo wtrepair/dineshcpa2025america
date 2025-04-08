@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import Button from "./Button";
+// import Button from "./Button"; // Remove unused import
 
 export type HeroType = {
   className?: string;

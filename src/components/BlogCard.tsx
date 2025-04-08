@@ -1,5 +1,4 @@
 import { FunctionComponent, useMemo, type CSSProperties } from "react";
-import Badge from "./Badge";
 import { useNavigate } from "react-router-dom";
 
 
@@ -8,13 +7,6 @@ export type BlogCardType = {
   cardHeader?: string;
   title?: string;
   preview?: string;
-  small?: string;
-  badgeText?: string;
-  showText?: boolean;
-  showIcon?: boolean;
-  showCloseIcon?: boolean;
-
-  /** Style props */
   propPadding?: CSSProperties["padding"];
   propHeight?: CSSProperties["height"];
   cardBodyFlex?: CSSProperties["flex"];
@@ -29,11 +21,6 @@ const BlogCard: FunctionComponent<BlogCardType> = ({
   title,
   propHeight,
   preview,
-  small,
-  badgeText,
-  showText,
-  showIcon,
-  showCloseIcon,
   cardBodyFlex,
   contentFlex,
   blogId,

@@ -1,5 +1,5 @@
 import { FunctionComponent, useCallback } from "react";
-import Button from "./Button";
+// import Button from "./Button"; // Remove unused import
 import { useNavigate } from "react-router-dom";
 
 export type FooterType = {
